@@ -9,7 +9,7 @@
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/description/psguniv/artsui)
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/psguniv/artsui)
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/author/psguniv/artsui)
-![version](https://img.shields.io/badge/ARTs-1.0.0-brightgreen) ![version](https://img.shields.io/badge/Node-22.9.0-brightgreen) ![version](https://img.shields.io/badge/NG%20CLI-18.2.8-brightgreen) ![version](https://img.shields.io/badge/Storybook-8.3.5-brightgreen)
+![version](https://img.shields.io/badge/Node-22.9.0-brightgreen) ![version](https://img.shields.io/badge/NG%20CLI-18.2.8-brightgreen) ![version](https://img.shields.io/badge/Storybook-8.3.5-brightgreen)
 
 ### Stack
 
