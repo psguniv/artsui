@@ -2,7 +2,7 @@
   "name": "arts",
   "version": "1.0.0",
   "author": "thnbcu",
-  "description": "ARTs",
+  "description": "Asset Recovery Tracking system",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",

@@ -1,4 +1,4 @@
-# artsui
+# ![GitHub package.json dynamic](https://img.shields.io/github/package-json/name/psguniv/artsui)
 
 [Angular Demo App](https://psguniv.github.io/artsui/dist/browser/)
 
@@ -9,6 +9,7 @@
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/description/psguniv/artsui)
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/psguniv/artsui)
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/author/psguniv/artsui)
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/dependency-version/psguniv/artsui/storybook)
 ![version](https://img.shields.io/badge/Node-22.9.0-brightgreen) ![version](https://img.shields.io/badge/NG%20CLI-18.2.8-brightgreen) ![version](https://img.shields.io/badge/Storybook-8.3.5-brightgreen)
 
 ### Stack
