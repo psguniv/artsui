@@ -1,4 +1,4 @@
-# ![GitHub package.json dynamic](https://img.shields.io/github/package-json/name/psguniv/artsui)
+# ARTs UI
 
 [Angular Demo App](https://psguniv.github.io/artsui/dist/browser/)
 
