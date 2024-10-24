@@ -24,13 +24,13 @@ import type { User } from './user';
           <path d="M27.2 10.6v11.2l-10.5 6V16.5l10.5-6zM15.7 4.4v11L6 10l9.7-5.5z" fill="#91BAF8" />
         </g>
       </svg>
-      <h1>Acme</h1>
+      <h1>NBCU ARTS</h1>
     </div>
     <div>
       <div *ngIf="user">
         <span class="welcome">
           Welcome, <b>{{ user.name }}</b
-          >!
+          >
         </span>
         <storybook-button
           *ngIf="user"
